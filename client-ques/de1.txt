@@ -1,0 +1,23 @@
+1 | 1 | What is the sum of 1+2+3+4+5+6+7+8+9+10? | 55 | 56 | 57 | 58 | 1 |
+2 | 1 | What is the chemical symbol for Hydrogen? | Hydro | Oxy | Nitro | Carbon | 1 |
+3 | 1 | What is the capital of Vietnam? | Hanoi | Ho Chi Minh City | Can Tho | Thanh Hoa | 1 |
+4 | 1 | Who is the author of the short story "The Last Leaf"? | O'Henry | Andrexen | Guy de Maupassant | A.P. Chekhov | 2 |
+5 | 1 | Who painted the "Mona Lisa"? | Titian | Raphael | Leonardo da Vinci | Michelangelo | 3 |
+6 | 1 | What does the letter 'X' mean in Roman numerals? | Ten | Nine | Eight | Seven | 1 |
+7 | 1 | Michael Schumacher is a legend in which sport? | F1 Racing | Boxing | Football | Basketball | 1 |
+8  | 2 | The Patheon temple is considered the pinnacle of technical thought in which ancient civilization? | Rome | Egypt | Greece | Vietnam | 1 |
+9  | 2 | Who was the winner of the 2017 Ballon d'Or? | C.Ronaldo | L.Messi | Neymar JR | L.Modric | 1 |
+10 | 2 | Who is the author of "Vo chong A Phu"? | To Hoai | Nam Cao | Thach Lam | Nguyen Tuan | 1 |
+11 | 2 | What was the national title of our country from 544 to 602? | Van Lang | Van Xuan | Dai Viet | Dai Co Viet | 2 |
+12 | 2 | If you have 16 soft drink bottle caps, how many new bottles can you exchange for? | 4 | 5 | 6 | 7 | 2 |
+13 | 2 | Which country won the Mrs. World 2009 competition? | Russia | Germany | England | Vietnam | 1 |
+14 | 2 | Which football team in the Premier League is nicknamed "The Red Devils"? | M.United | Arsenal | Chelsea | Tottenham | 1 |
+15 | 3 | The poem "Nang moi" by Luu Trong Lu is about whom? | Father | Mother | Grandfather | Grandmother | 2 |
+16 | 3 | What is the mascot of AIG? | Chicken | Elephant | Monkey | Giraffe | 1 |
+17 | 3 | How many zeros are there from 1 to 150? | 14 | 15 | 16 | 17 | 3 |
+18 | 3 | Poverty Day: | October 17th | October 16th | October 15th | October 18th | 1 |
+19 | 3 | The author of the French version of "The Hand of God": | K.Benzema | R.Varane | T.Henry | P.Pogba | 3 |
+20 | 3 | When a free-falling object is deflected towards which direction? | East | West | South | North | 1 |
+21 | 3 | Where was the EURO first organized? | Italy | France | Germany | England | 2 |
+22 | 3 | Located near Hoang Lien Son mountain range, Mu Cang Chai is a remote district of which province? | Lang Son | Son La | Hoa Binh | Yen Bai | 4 |
+23 | 3 | Who is the artist of the work "Tieng sao dieu"? | Bui Xuan Phai | Tran Van Can | Ngo Duc Ke | Le Lam | 1 |

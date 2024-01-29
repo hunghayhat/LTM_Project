@@ -1,0 +1,7 @@
+student1	1
+student2	9
+a	4
+student4	2
+student5	2
+kien	2
+h	2

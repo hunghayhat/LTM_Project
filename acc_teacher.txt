@@ -1,0 +1,6 @@
+teacher1 1
+teacher2 1
+teacher3 1
+teacher4 1
+teacher5 1
+teacher6 1

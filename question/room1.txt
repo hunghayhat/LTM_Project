@@ -1,0 +1,23 @@
+1  | 1 | Who was the last queen of the feudal regime in Vietnam? | Nam Phuong | Bac Phuong | Tay Phuong | Dong Phuong | 1 |
+2  | 1 | Which province does Phu Quoc island belong to in Vietnam? | Bac Giang | Kien Giang | Ha Giang | Ba Ria Vung Tau | 2 |
+3  | 1 | Who is the author of the poem "The Ferry"? | Nguyen Duy | Nguyen Duong | Nguyen Du | Nguyen Hue | 1 |
+4  | 1 | How many even prime numbers are there? | 0 | 1 | 2 | 3 | 2 |
+5  | 1 | How many edges must a convex polygon have at least? | 2 | 3 | 4 | 5 | 2 |
+6  | 1 | What are functions whose first derivative is zero called? | Constant function | Implicit function | Monotone function | Fractional function | 1 |
+7  | 1 | Which province does Sam Son Beach belong to? | Thanh Hoa | Nghe An | Ha Tinh | Quang Binh | 1 |
+8  | 2 | Who is the author of the novel 'War and Peace'? | Andersen | Victor Hugo | Lev Tolstoy | Leonardo Da Vinci | 3 |
+9  | 2 | Which element has the highest electronegativity? | Hydrogen | Fluorine | Chlorine | Bromine | 2 |
+10 | 2 | Who is the second most Ballon d'Or-winning football player in the world? | L.Messi | C.Ronaldo | R.Lewandowski | Ronaldinho | 2 |
+11 | 2 | Which country is the headquarters of the WTO located in? | Switzerland | Sweden | Netherlands | England | 1 |
+12 | 2 | Whose famous poetry collection is 'Uc Trai'? | Nguyen Du | Nguyen Trai | Nguyen Tuan | Nguyen Dinh Chieu | 2 |
+13 | 2 | Under which king did Hanoi have the name Dong Do? | Ho Quy Ly | Ly Nam De | Ly Thuong Kiet | Le Loi | 1 |
+14 | 2 | Among the types of radio waves, which type has the most energy? | Extremely high-frequency waves | Short waves | Medium waves | Long waves | 1 |
+15 | 3 | Who was the first General Secretary of Vietnam? | Tran Phu | Le Duan | Le Kha Phieu | Truong Chinh | 1 |
+16 | 3 | How many single-digit prime numbers are there? | 1 | 2 | 3 | 4 | 4 |
+17 | 3 | Which physical quantity characterizes the actual speed of current execution? | Power | Capacity | Speed | Electrical energy | 1 |
+18 | 3 | Which chemical element is most commonly used in computer chip manufacturing? | Fe | Si | Ag | Pb | 2 |
+19 | 3 | What is the capital of the Philippines? | Cebu | Davao | Manila | Antipolo | 3 |
+20 | 3 | How many chromosomes are there in a human 2n sex cell? | 45 | 46 | 47 | 48 | 2 |
+21 | 3 | Which country is the host of the 2021 Olympics? | South Korea | Brazil | Japan | Germany | 3 |
+22 | 3 | Who was the first king to hold the plowing ritual in Vietnam? | Le Chieu Thong | Le Loi | Le Dai Hanh | Le Thanh Tong | 3 |
+23 | 3 | Which chemical element in Latin means "Liquid Silver"? | Mg | Ca | Ag | Hg | 4 |
